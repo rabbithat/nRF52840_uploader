@@ -8,3 +8,8 @@ Recommendation: use the "compiletoflash" command to compile this program into th
 How to use:  to invoke the program, use a terminal to type "upload" at the nRF52840's REPL prompt.  Then paste into your terminal program the file you want to upload.  Finish the upload either by typing a tilde ("~") on the terminal or including a tilde at the end of the upload file.  Immediately after the nRF52840 receives the tilde, each line of the upload file will be automatically evaluated and compiled onto the nRF52840.
 
 Done!  It's that easy.
+
+
+Revision History:
+Version 3 : re-wrote the program by generalizing the code for manipulating variables and lists
+Version 2: fixed a comment typo reported by Terry Porter
