@@ -11,5 +11,7 @@ Done!  It's that easy.
 
 
 Revision History:
+
 Version 3 : re-wrote the program by generalizing the code for manipulating variables and lists
+
 Version 2: fixed a comment typo reported by Terry Porter
