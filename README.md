@@ -5,7 +5,7 @@ Background and motivation:  it seemed that all the upload utilities I could find
 
 Recommendation: use the "compiletoflash" command to compile this program into the nRF52840's flash memory so that it will be conveniently available to assist with all future uploads.
 
-How to use:  to invoke the program, use a terminal to type "upload" at the nRF52840's REPL prompt.  Then paste into your terminal program the file you want to upload.  Finish the upload either by typing a tilde ("~") on the terminal or including a tilde at the end of the upload file.  Immediately after the nRF52840 receives the tilde, each line of the upload file will be automatically evaluated and compiled onto the nRF52840.
+How to use:  To invoke the program, use a terminal to type "upload" at the nRF52840's REPL prompt.  Then paste into your terminal program the file you want to upload.  Finish the upload either by typing a tilde ("~") on the terminal or including a tilde at the end of the upload file.  Immediately after the nRF52840 receives the tilde, each line of the upload file will be automatically evaluated and compiled onto the nRF52840.
 
 Done!  It's that easy.
 
