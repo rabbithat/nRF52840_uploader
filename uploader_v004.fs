@@ -21,8 +21,7 @@
 #126 constant ASCII_tilde
 ASCII_tilde constant _EOF_DELIMITER \ end of file delimiter
 
-$FF constant maskByte0 \ bitmask for byte zero.
-$FFFFFF00 constant maskByte321 \ bitmask for byte3 byte2 and byte1
+
 
 \
 \ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
