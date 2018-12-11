@@ -11,9 +11,14 @@ Done!  It's that easy.
 
 ------------------------------------------------------------------------------------------------
 
+IMPORTANT!  Before loading this file, load the current version of: https://github.com/rabbithat/nRF52_essential_definitions
+
+------------------------------------------------------------------------------------------------
 
 Revision History:
 
-Version 3 : re-wrote the program by generalizing the code for manipulating variables and lists
+Version 4: Variable and list manipulation code has become a separate library file which this code now leverages:  https://github.com/rabbithat/nRF52_essential_definitions
+
+Version 3: re-wrote the program by generalizing the code for manipulating variables and lists
 
 Version 2: fixed a comment typo reported by Terry Porter
