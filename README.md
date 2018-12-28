@@ -17,6 +17,9 @@ IMPORTANT!  Before loading this file, load the current version of: https://githu
 
 Revision History:
 
+Version 6:  Version 5 no longer allowed files to be uploaded to flash.  Version 6 fixes that.  Just invoke compiletoflash, as 
+per usual, before invoking upload, and the Forth definitions will be put into flash instead of RAM.
+
 Version 5: no longer requires a large static buffer that persists after the upload is finished.  Instead, a buffer which is temporarily located at the midpoint of free RAM is used.
 
 Version 4: Variable and list manipulation code has become a separate library file which this code now leverages:  https://github.com/rabbithat/nRF52_essential_definitions
